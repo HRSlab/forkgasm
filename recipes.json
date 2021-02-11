@@ -1,7 +1,13 @@
 {
 	"recipe": [
 		{
-			"tag": []
+			"tag": [
+				"PRMI PIAtTI",
+				"PASTA"
+			],
+			"name": "pastapesto",
+			"id": "pastapesto",
+			"description": "test"
 		},
 		{
 			"tag": []
